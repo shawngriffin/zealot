@@ -1,0 +1,41 @@
+Origin: Debian
+Label: Debian
+Suite: stable
+Version: 6.0.5
+Codename: squeeze
+Date: Sat, 12 May 2012 12:07:58 UTC
+Architectures: i386
+Components: main contrib
+Description: Debian 6.0.5 Released 12 May 2012
+MD5Sum:
+ 225ff0e3a9e33f02bb4c0e8c11e9d2a6       95 main/binary-i386/Release
+ e1c7ec99d7138260a3339231f692e177   230866 main/binary-i386/Packages
+ d97ec76994c5bc4676606a1272396054    75105 main/binary-i386/Packages.gz
+ 225ff0e3a9e33f02bb4c0e8c11e9d2a6       95 main/debian-installer/binary-i386/Release
+ 75e7034b198e014e662ba3deb296260b   121812 main/debian-installer/binary-i386/Packages
+ 777bcd74a5c76bea08e5a442e818f4d1    33464 main/debian-installer/binary-i386/Packages.gz
+ 2aab5ccf1bfade3006148d321ac97d48       98 contrib/binary-i386/Release
+SHA1:
+ b046a8fc170faf85530ad07fd942f93f0ba27a33       95 main/binary-i386/Release
+ 0931ff96447c75f5586b54b2008fcc4bec08a33c   230866 main/binary-i386/Packages
+ 813f933c9ef035673250bd1746dfe6d01fd1bb56    75105 main/binary-i386/Packages.gz
+ b046a8fc170faf85530ad07fd942f93f0ba27a33       95 main/debian-installer/binary-i386/Release
+ 4429bcc93161878f7615d29d28098fe7212cff09   121812 main/debian-installer/binary-i386/Packages
+ 82a827a847f3fe8fb6fac856cf21e2101bc1c20a    33464 main/debian-installer/binary-i386/Packages.gz
+ e44784c81c5d608dc7c16fa84a58b1c6ed17036c       98 contrib/binary-i386/Release
+SHA256:
+ 67cecc8e5b0e4f89fca7d5e0fd7119eb2f32c132fc28c8b128f4f89be3a549ad       95 main/binary-i386/Release
+ c89b6688dad0c8816ad220205f51015a0e8bc2c054ed8d9fd503edae2f8fc27e   230866 main/binary-i386/Packages
+ a52b3db77f357bfeab93f9319d34fda2ce14fd9808c775003b2a4b6d0237e0de    75105 main/binary-i386/Packages.gz
+ 67cecc8e5b0e4f89fca7d5e0fd7119eb2f32c132fc28c8b128f4f89be3a549ad       95 main/debian-installer/binary-i386/Release
+ f146168b7bdeee15e5fd2cff4ed7a60cd9fdccc8af38c765abe39c55c2be796c   121812 main/debian-installer/binary-i386/Packages
+ 0567e7485a6275ebab3996096bac67ab3e7ca2aeea5003fe85951391e6d5dc1a    33464 main/debian-installer/binary-i386/Packages.gz
+ f9fdc6e3f1c9e9f6f0d8a802f918c8e93a0a05ba39094027b6a811eb4e658658       98 contrib/binary-i386/Release
+SHA512:
+ d340fc71caf1c3c819efaf7bd36bdae05deee5685b31b2002b6ae7c0e241d9693e8b7e1972993a94f52a82b63437740584a0fcbc1d9f3a30cb1b5857a50b05d2       95 main/binary-i386/Release
+ 48f19b770a7ea803ce254d3cf1c70f24d3233786ebbed40a463e00db8b080857fc52461776db221815bc2b27e181b876b101b7a5d96498c2b16175c045501c2f   230866 main/binary-i386/Packages
+ c999d1cad969942a9ec02d48271c3d8b5da451861cab05a708c564d5fa3f339646cfb21724d8e7e4a6f6939bc5a45443e5d427890fc01bbbfa2dec729b1172a7    75105 main/binary-i386/Packages.gz
+ d340fc71caf1c3c819efaf7bd36bdae05deee5685b31b2002b6ae7c0e241d9693e8b7e1972993a94f52a82b63437740584a0fcbc1d9f3a30cb1b5857a50b05d2       95 main/debian-installer/binary-i386/Release
+ d2196118a230f5b8139a41f0564aed79b32fdb9a3af0f93754e3d5b505630c4d522e5e612ac25dd1a99c877d5b4fc35bfb5ee20b645203cf443e798d9597f7d6   121812 main/debian-installer/binary-i386/Packages
+ a17f5006bff746df7e9e60e4d88d3b7fb40bc1054b0527814b6e1b545684e4ed0b1b161683136267b8cb3952ad93f63963534a2b41514fbff81b75606b6311c6    33464 main/debian-installer/binary-i386/Packages.gz
+ f16438e59ab086a3b7185be1bbd5ba8fcedfc5d104e6ad94b5b73615a401c8bcee7bf697376d976f32b2d9ca983cc6c7eb04c23c20cdd6c3be043a69077ee2c8       98 contrib/binary-i386/Release

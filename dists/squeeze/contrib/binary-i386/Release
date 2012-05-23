@@ -1,0 +1,6 @@
+Archive: stable
+Origin: Debian
+Label: Debian
+Version: 6.0.5
+Component: contrib
+Architecture: i386
