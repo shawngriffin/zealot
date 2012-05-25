@@ -1,6 +1,9 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+*.swp
+*.html
+*.deb
+*.dsc
+*.orig.tar.gz
+*.diff.gz
+etc/freight.conf
+var
+*~
