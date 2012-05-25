@@ -51,7 +51,3 @@ Serve `/var/cache/freight` via your favorite web server and install it as an APT
 ## Contribute
 
 Freight is [BSD-licensed](https://github.com/rcrowley/freight/blob/master/LICENSE)
-
-* Source code: <https://github.com/rcrowley/freight>
-* Issue tracker: <https://github.com/rcrowley/freight/issues>
-* Wiki: <https://github.com/rcrowley/freight/wiki>
